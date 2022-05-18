@@ -2,5 +2,5 @@
 
 # Initial Repo Created for the Data Science Capstone Project.  
 
-All rights to IBM/Coursera for templates.
-Edited by me in order to complete the Data Science Certificate.
+Files subsequently moved to a private learning repo.
+Keeping this as a placeholder for future courses...
